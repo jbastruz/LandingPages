@@ -54,7 +54,7 @@
 
 .hero-title em {
   font-style: normal;
-  background: var(--gradient);
+  background: var(--orange);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
@@ -114,7 +114,6 @@
 .hero-float-card.card-royalty {
   top: 15%;
   right: -10%;
-  color: var(--orange);
 }
 
 .hero-float-card.card-royalty .amount {
